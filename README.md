@@ -12,6 +12,16 @@ In this project, _Python_ is used to explore data related to bike share systems 
 * _Python 3, NumPy,_ and _Pandas_ installed using _Anaconda_
 * A text editor, like _VS Code_ or _Atom_.
 * A terminal application (_Terminal_ on _Mac_ and _Linux_ or _Cygwin_ on _Windows_).
+* ## **Code explained in Detail:**
+* 
+### **How the program works:**
+The code developed takes in raw input to create an interactive experience in the terminal that answers questions about the dataset. The experience is interactive because depending on a user's input, the answers to the questions will change! There are four statments that will change the answers:
+
+* please enter the full name of one of the following cities:new york city, chicago or washington !
+*  please enter the name of the month from the following choics :January, February, March, April, May, June or type 'all' if you do not have any preference!
+* (please enter thename of the day from the following options or enter all if you don't have a prefernce:Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday or type 'all' !
+
+The answers to the statemenst above will determine the city and timeframe on which you'll do data analysis. After filtering the dataset, users will see the statistical result of the data, and choose to start again or exit.
  
 ## Bikeshare Data 
 
