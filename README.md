@@ -1,4 +1,19 @@
-# Bikeshare Data 
+# **US Bikeshare Data Analysis Project**
+
+## **Overview:**
+In this project, _Python_ is used to explore data related to bike share systems for three major cities in the United States — _Chicago, New York City,_ and _Washington_. 
+- The source code takes in raw input from the user to create an interactive experience. 
+- According to the input the code will import the data and will provide information by computing descriptive statistics.
+
+## **Files used:**
+* bikeshare.py
+
+## **Softwares needed:**
+* _Python 3, NumPy,_ and _Pandas_ installed using _Anaconda_
+* A text editor, like _VS Code_ or _Atom_.
+* A terminal application (_Terminal_ on _Mac_ and _Linux_ or _Cygwin_ on _Windows_).
+ 
+## Bikeshare Data 
 
 Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
 
